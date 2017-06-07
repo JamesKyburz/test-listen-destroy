@@ -1,0 +1,17 @@
+{
+  "name": "test-listen-destroy",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JamesKyburz/test-listen-destroy.git"
+  },
+  "files": [
+    "src"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "server-destroy": "1.0.1",
+    "test-listen": "1.0.2"
+  }
+}
